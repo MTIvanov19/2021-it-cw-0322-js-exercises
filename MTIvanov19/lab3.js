@@ -1,0 +1,7 @@
+let sumFunc =  function(a, b)
+{
+    return a + b;
+};
+
+console.log(sumFunc.toString());
+console.log(sumFunc(5, 4));
